@@ -1,0 +1,3 @@
+# this file telss github to ignore the contents in the two file/folder below so less is downloaded unessicary isnt downloaded
+node_modules
+.env
