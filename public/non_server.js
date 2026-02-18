@@ -1,4 +1,4 @@
-const application = document.querySelector("#app");
+const application = document.querySelector("#application");
 
 const el = (tag, props = {}, ...children) => {
   const node = document.createElement(tag);
